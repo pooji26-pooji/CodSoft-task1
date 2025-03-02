@@ -7,8 +7,6 @@ Overview of the Project
 
 Project: Personal Portfolio Website using HTML & CSS
 
-Internship: CodSoft (Feb 20 - March 20)
-
 Objective
 
 The objective of this project is to develop a responsive personal portfolio website using HTML and CSS. This website showcases professional information, including an introduction, skills, projects, and contact details. The goal is to provide an interactive and visually appealing platform for presenting personal achievements and expertise.
